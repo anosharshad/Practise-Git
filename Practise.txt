@@ -8,5 +8,6 @@ five
 six
 seven
 eight
+ten
 
 Number game 
