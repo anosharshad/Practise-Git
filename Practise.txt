@@ -6,5 +6,6 @@ three
 four
 five 
 six
+seven
 
 Number game 
